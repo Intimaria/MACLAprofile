@@ -2,8 +2,8 @@
 <profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="profile.xsd" useForConfiguration="1" base="base"
   infoUrl="http://dublincore.org/documents/dces/">
-  <profileName>The University of Pittsburgh Art Gallery</profileName>
-  <profileDescription>Custom profile configuration for The University of Pittsburgh Art Gallery.</profileDescription>
+  <profileName>MACLA test</profileName>
+  <profileDescription>Custom profile configuration for MACLA.</profileDescription>
   <locales>
     <locale lang="en" country="US">English</locale>
   </locales>
